@@ -16,3 +16,7 @@ end
 另外，要进行测试运行，请运行以下命令：
 
 pod try BleManager_Swift
+
+Update date 2020/09/22 week 2
+
+The current maintenance version of this library is 1.0.0 Basic Bluetooth connection and use
