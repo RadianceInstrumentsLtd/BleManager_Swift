@@ -20,3 +20,6 @@ pod try BleManager_Swift
 Update date 2020/09/22 week 2
 
 The current maintenance version of this library is 1.0.0 Basic Bluetooth connection and use
+
+该库已经转移到
+https://github.com/QuickDevelopers/BleManageSwift
